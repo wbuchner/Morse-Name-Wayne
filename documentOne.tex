@@ -1,0 +1,97 @@
+%
+%  documentOne
+%
+%  Created by Wayne Buchner on 2011-03-20.
+%  Copyright (c) 2011 Wayne Buchner 6643140. All rights reserved.
+%
+\documentclass[a4paper]{article}
+
+% Use utf-8 encoding for foreign characters
+\usepackage[utf8]{inputenc}
+
+% Setup for fullpage use
+\usepackage{fullpage}
+
+% Uncomment some of the following if you use the features
+%
+% Running Headers and footers
+\usepackage{fancyhdr}
+
+% Multipart figures
+%\usepackage{subfigure}
+
+% More symbols
+%\usepackage{amsmath}
+%\usepackage{amssymb}
+%\usepackage{latexsym}
+
+% Surround parts of graphics with box
+\usepackage{boxedminipage}
+
+% Package for including code in the document
+\usepackage{listings}
+
+% If you want to generate a toc for each chapter (use with book)
+\usepackage{minitoc}
+
+% This is now the recommended way for checking for PDFLaTeX:
+\usepackage{ifpdf}
+
+%\newif\ifpdf
+%\ifx\pdfoutput\undefined
+%\pdffalse % we are not running PDFLaTeX
+%\else
+%\pdfoutput=1 % we are running PDFLaTeX
+%\pdftrue
+%\fi
+
+\ifpdf
+\usepackage[pdftex]{graphicx}
+\else
+\usepackage{graphicx}
+\fi
+\title{Programs and where they come from}
+\author{Wayne R Buchner, 6643140}
+
+\date{2011-03-20}
+
+\begin{document}
+
+\ifpdf
+\DeclareGraphicsExtensions{.pdf, .jpg, .tif}
+\else
+\DeclareGraphicsExtensions{.eps, .jpg}
+\fi
+
+\maketitle
+
+
+\section*{Introduction}
+Crafting a program is a skill. Moving through development cycles is just one stage, the pivotal step is executing your program. Programs simply just do not execute themselves. A programmer must be aware of various platforms and languages in order to understand the final step of moving from source code to executable file. Project limitations and scope, markets and environmental influences may affect or limit a choice of development environment (Greenfield 2004). This short report outlines the steps from source code to executable file and how knowledge of this process plays an important role in developing software and an understanding of programs and where they come from. 
+
+\section*{Programs and Machine Code}
+Early computers loaded a program directly into the computers Central Processing Unit. This required the program to be completely written in Machine Language (Binary) and usually were written explicitly for the computer executing the program. However writing Machine Code is difficult and mistakes are easily made (Sparke 2004). In fact Machine Code is so difficult to read, the United States Copyright office finds authenticating an authors work in Machine Language difficult (Samuelson 1984). Low Level programming languages as they are referred, include Machine and Assembly Languages. They are the stem from which modern High Level languages evolved. Computers still execute our programs in machine code but fortunately for us, there is choice. A choice of languages we understand and tools in which to develop and compile our code into executable files for specific platforms. Most importantly, the choice of how and when the execution of our program is handled by the computer.
+
+\section*{From Source Code to Machine Code}
+Although programmers now have a choice of  development environment and language, software produced using Modern High Level languages often only generate source code. Either a compiler an interpreter, or both\footnote{Just-In-Time Compilers, a hybrid of semi compiled and interpreted code.} is required to create the necessary files for the cpu at runtime (Sparke 2004). Knowing the difference between compiled or interpreted source code is required to understand how a computer responds to your program. A compiled program (Figure 1) in essence is a complete standalone program that can be distributed, saved onto different devices and executed from various locations. However changes to the programs source code will mean recompiling and redistributing the compiled execution file.
+
+Interpreted (Figure 2) programs where the source code is interpreted line by line in the computers memory at run time and feed directly to the CPU to be executed, means that source code need not be completely recompiled after an edit. Although any user wishing to run that source code must have the appropriate Run Time Environment\footnote{Run Time Environment for example the Java Virtual Machine, available for many hardware and software packages.} installed on the system. Developers need to be aware that fully compiled program run faster than interpreted programs and this needs to be considered in the programs planning stages. Yet one of the benefits of using an interpreted language may be a noticeably faster development experience given an interpreted language does not require to recompile the entire program each time you iterate through development cycles. 
+
+The development process can be further confused with the mention of Just-In-Time compilation which is a hybrid of semi compiled and interpreted code. Even though they tax the computer systems resources, Just-In-Time compilation have found favour with languages such as Javascript, .NET and Java. Some Just-In-Time interpreters have made recent advances improved their performance. Now the Java platform increases performance by caching\footnote{Caching of translated code helps to minimize performance degradation.} compiled code.
+
+\section*{Summary}
+Understanding the process of a programs execution by the CPU is fundamental in ensuring your program behaves as expected when executed. Source code is required to be either compiled or interpreted and executed by a CPU. The process is intrinsic to every computer system. The benefits for modern programmers is a choice of platform, methods of conversion either compiled or interpreted and the ability to easily generate source code in human readable languages against the difficult to write although not impossible Machine Code.
+\newline
+\includegraphics[scale=.5]{compiled}
+\newline
+\includegraphics[scale=.5]{interpreted}
+
+\bibliographystyle{plain}
+\bibliography{}
+\end{document}
+
+
+
+
+
+
