@@ -1,0 +1,724 @@
+%PDF-1.3
+%âãÏÓ
+2 0 obj
+<<
+/Length 5646
+>>
+stream
+0 G
+0 J 0 j 0.1 w 10 M []0 d
+/GS1 gs
+1 i 
+571 421 m
+60 421 l
+S
+0.95 g
+42 818 18 -794 re
+f
+0.7 g
+24 96 36 -72 re
+f
+BT
+/TT2 1 Tf
+0 12 -12 0 40 38.666 Tm
+0 g
+0 Tc
+0 Tw
+(03/28/11)Tj
+-0.0552 -1.0667 TD
+(08:07:07)Tj
+ET
+0.7 g
+24 818 36 -72 re
+f
+BT
+/TT4 1 Tf
+0 28.8 -28.8 0 52.8 773.9915 Tm
+1 g
+(1)Tj
+/TT6 1 Tf
+0 14 -14 0 55.5 390.8672 Tm
+0 g
+(Sketch.pas)Tj
+-0.9995 1.2857 TD
+(Waynes’s Code)Tj
+/TT8 1 Tf
+0 7 -7 0 70 46.8 Tm
+(1:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(program)Tj
+/TT8 1 Tf
+0 g
+4.2 0 TD
+( Sketch;)Tj
+-6 -1.1429 TD
+(2:)Tj
+T*
+(3:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(uses)Tj
+/TT8 1 Tf
+0 g
+2.4 0 TD
+( SysUtils;)Tj
+-4.2 -1.1429 TD
+(4:)Tj
+T*
+(5:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(procedure)Tj
+/TT8 1 Tf
+0 g
+5.4 0 TD
+( ShowMenu\(\);)Tj
+-7.2 -1.1429 TD
+(6:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(begin)Tj
+/TT8 1 Tf
+0 g
+-1.8 -1.1429 TD
+[(7:)-599.8(    WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+9 0 TD
+(’I would like...’)Tj
+/TT8 1 Tf
+0 g
+10.2 0 TD
+(\);)Tj
+-19.2 -1.1429 TD
+[(8:)-599.8(    WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+9 0 TD
+(’1: An Argument’)Tj
+/TT8 1 Tf
+0 g
+9.6 0 TD
+(\);)Tj
+-18.6 -1.1429 TD
+[(9:)-599.8(    WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+9 0 TD
+(’2: Verbal Abuse’)Tj
+/TT8 1 Tf
+0 g
+10.2 0 TD
+(\);)Tj
+-19.8 -1.1429 TD
+[(10:)-599.7(    WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+9.6 0 TD
+(’3: To Complain’)Tj
+/TT8 1 Tf
+0 g
+9.6 0 TD
+(\);)Tj
+-19.2 -1.1429 TD
+[(11:)-599.7(    WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+9.6 0 TD
+(’4: Being hit on the head lessons’)Tj
+/TT8 1 Tf
+0 g
+20.4 0 TD
+(\);)Tj
+-30 -1.1429 TD
+[(12:)-599.7(    WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+9.6 0 TD
+(’5: To Quit’)Tj
+/TT8 1 Tf
+0 g
+7.2 0 TD
+(\);)Tj
+-16.8 -1.1429 TD
+(13:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(end)Tj
+/TT8 1 Tf
+0 g
+1.8 0 TD
+(;)Tj
+-4.2 -1.1429 TD
+(14:)Tj
+T*
+(15:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(procedure)Tj
+/TT8 1 Tf
+0 g
+5.4 0 TD
+( Argument\(\);)Tj
+-7.8 -1.1429 TD
+(16:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(begin)Tj
+/TT8 1 Tf
+0 g
+-2.4 -1.1429 TD
+[(17:)-599.7(    WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+9.6 0 TD
+(’I cant argue anymore your five minutes are up...’)Tj
+/TT8 1 Tf
+0 g
+30 0 TD
+(\);)Tj
+-39.6 -1.1429 TD
+(18:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(end)Tj
+/TT8 1 Tf
+0 g
+1.8 0 TD
+(;)Tj
+-4.2 -1.1429 TD
+(19:)Tj
+T*
+(20:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(procedure)Tj
+/TT8 1 Tf
+0 g
+5.4 0 TD
+( Abuse\(\);)Tj
+-7.8 -1.1429 TD
+(21:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(begin)Tj
+/TT8 1 Tf
+0 g
+-2.4 -1.1429 TD
+[(22:)-599.7(    WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+9.6 0 TD
+(’WHAT DO YOU WANT!! Dont give me that you...’)Tj
+/TT8 1 Tf
+0 g
+27 0 TD
+(\);)Tj
+-36.6 -1.1429 TD
+(23:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(end)Tj
+/TT8 1 Tf
+0 g
+1.8 0 TD
+(;)Tj
+-4.2 -1.1429 TD
+(24:)Tj
+T*
+(25:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(procedure)Tj
+/TT8 1 Tf
+0 g
+5.4 0 TD
+( Complain\(\);)Tj
+-7.8 -1.1429 TD
+(26:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(begin)Tj
+/TT8 1 Tf
+0 g
+-2.4 -1.1429 TD
+[(27:)-599.7(    WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+9.6 0 TD
+(’You want to complain, look at these shoes’)Tj
+/TT8 1 Tf
+0 g
+25.8 0 TD
+(\);)Tj
+-35.4 -1.1429 TD
+(28:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(end)Tj
+/TT8 1 Tf
+0 g
+1.8 0 TD
+(;)Tj
+-4.2 -1.1429 TD
+(29:)Tj
+T*
+(30:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(procedure)Tj
+/TT8 1 Tf
+0 g
+5.4 0 TD
+( HitOnTheHead\(\);)Tj
+-7.8 -1.1429 TD
+(31:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(begin)Tj
+/TT8 1 Tf
+0 g
+-2.4 -1.1429 TD
+[(32:)-599.7(    WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+9.6 0 TD
+(’No, hold your head like that and say "Wah"’)Tj
+/TT8 1 Tf
+0 g
+26.4 0 TD
+(\);)Tj
+-36 -1.1429 TD
+(33:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(end)Tj
+/TT8 1 Tf
+0 g
+1.8 0 TD
+(;)Tj
+-4.2 -1.1429 TD
+(34:)Tj
+T*
+(35:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(procedure)Tj
+/TT8 1 Tf
+0 g
+5.4 0 TD
+( Main\(\);)Tj
+-7.8 -1.1429 TD
+(36:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(var)Tj
+/TT8 1 Tf
+0 g
+-2.4 -1.1429 TD
+[(37:)-599.7(    option : Integer;)]TJ
+T*
+(38:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(begin)Tj
+/TT8 1 Tf
+0 g
+-2.4 -1.1429 TD
+[(39:)-599.7(    )]TJ
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(repeat)Tj
+/TT8 1 Tf
+0 g
+3.6 0 TD
+( )Tj
+-8.4 -1.1429 TD
+[(40:)-599.7(    ShowMenu\(\); )]TJ
+T*
+[(41:)-599.7(    WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+9.6 0 TD
+(’Choose an option’)Tj
+/TT8 1 Tf
+0 g
+10.8 0 TD
+(\);)Tj
+-20.4 -1.1429 TD
+[(42:)-599.7(    ReadLn\(option\);)]TJ
+T*
+[(43:)-599.7(    )]TJ
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(case)Tj
+/TT8 1 Tf
+0 g
+2.4 0 TD
+(\(option\) )Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+5.4 0 TD
+(of)Tj
+/TT8 1 Tf
+0 g
+-12.6 -1.1429 TD
+[(44:)-599.7(    1:Argument\(\);)]TJ
+T*
+[(45:)-599.7(    2:Abuse\(\);  )]TJ
+T*
+[(46:)-599.7(    3:Complain\(\);)]TJ
+T*
+[(47:)-599.7(    4:HitOnTheHead\(\);)]TJ
+T*
+[(48:)-599.7(    )]TJ
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(else)Tj
+/TT8 1 Tf
+0 g
+-4.8 -1.1429 TD
+[(49:)-599.7(        WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+12 0 TD
+(’Bye...’)Tj
+/TT8 1 Tf
+0 g
+4.8 0 TD
+(\);)Tj
+-16.8 -1.1429 TD
+[(50:)-599.7(    )]TJ
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(end)Tj
+/TT8 1 Tf
+0 g
+1.8 0 TD
+(;)Tj
+-6.6 -1.1429 TD
+[(51:)-599.7(    )]TJ
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(until)Tj
+/TT8 1 Tf
+0 g
+3 0 TD
+(\(option = 5\);)Tj
+-7.8 -1.1429 TD
+(52:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(end)Tj
+/TT8 1 Tf
+0 g
+1.8 0 TD
+(;)Tj
+-4.2 -1.1429 TD
+(53:)Tj
+T*
+(54:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(begin)Tj
+/TT8 1 Tf
+0 g
+-2.4 -1.1429 TD
+[(55:)-599.7(    Main\(\);)]TJ
+T*
+(56:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(end)Tj
+/TT8 1 Tf
+0 g
+1.8 0 TD
+(.)Tj
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT8 7 0 R
+/TT10 8 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+9 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/OP false
+/op false
+/OPM 1
+/BG2 /Default
+/UCR2 /Default
+/HT /Default
+/TR2 /Default
+>>
+endobj
+11 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 750
+/CapHeight 676
+/Descent -250
+/Flags 262178
+/FontBBox [-168 -218 1000 935]
+/FontName /Times-Bold
+/ItalicAngle 0
+/StemV 133
+/XHeight 461
+/StemH 139
+>>
+endobj
+12 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 770
+/CapHeight 718
+/Descent -229
+/Flags 262176
+/FontBBox [-170 -228 1003 962]
+/FontName /Helvetica-Bold
+/ItalicAngle 0
+/StemV 133
+/XHeight 532
+/StemH 140
+>>
+endobj
+13 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 750
+/CapHeight 662
+/Descent -250
+/Flags 34
+/FontBBox [-168 -218 1000 898]
+/FontName /Times-Roman
+/ItalicAngle 0
+/StemV 84
+/XHeight 450
+/StemH 84
+>>
+endobj
+14 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 753
+/CapHeight 562
+/Descent -246
+/Flags 35
+/FontBBox [-28 -250 628 805]
+/FontName /Courier
+/ItalicAngle 0
+/StemV 51
+/XHeight 426
+/StemH 51
+>>
+endobj
+15 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 753
+/CapHeight 562
+/Descent -246
+/Flags 262179
+/FontBBox [-113 -250 749 801]
+/FontName /Courier-Bold
+/ItalicAngle 0
+/StemV 133
+/XHeight 439
+/StemH 84
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 47
+/LastChar 58
+/Widths [278 500 500 500 500 0 0 0 500 500 0 333 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Times-Bold
+/FontDescriptor 11 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 49
+/LastChar 49
+/Widths [556 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Helvetica-Bold
+/FontDescriptor 12 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 146
+/Widths [250 0 0 0 0 0 0 0 0 0 0 0 0 0 250 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 667 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 556 0 0 0 944 0 0 0 0 0 0 0 0 
+0 444 0 444 500 444 0 0 500 0 0 500 0 0 500 500 
+500 0 0 389 278 0 0 0 0 500 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 333 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Times-Roman
+/FontDescriptor 13 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 121
+/Widths [600 0 0 0 0 0 0 0 600 600 0 0 0 0 600 0 
+600 600 600 600 600 600 600 600 600 600 600 600 0 600 0 0 
+0 600 0 600 0 0 0 0 600 600 0 0 600 600 0 600 
+0 0 600 600 600 600 0 600 0 0 0 0 0 0 0 0 
+0 600 600 600 600 600 0 600 600 600 0 600 600 600 600 600 
+600 0 600 600 600 600 0 600 0 600 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier
+/FontDescriptor 14 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 146
+/Widths [600 600 600 0 0 0 0 0 0 0 0 0 600 0 600 0 
+0 600 600 600 600 600 0 0 0 0 600 0 0 0 0 0 
+0 600 600 600 600 0 0 0 600 600 0 0 0 0 600 600 
+0 600 0 0 600 600 600 600 0 600 0 0 0 0 0 0 
+0 600 600 600 600 600 600 600 600 600 0 600 600 600 600 600 
+600 0 600 600 600 600 600 600 0 600 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 600 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier-Bold
+/FontDescriptor 15 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/S /D
+>>
+endobj
+17 0 obj
+<<
+/Nums [0 16 0 R ]
+>>
+endobj
+10 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R]
+/Count 1
+/Rotate 90
+/MediaBox [0 0 595 842]
+>>
+endobj
+18 0 obj
+<<
+/CreationDate (D:20110330210620+11'00')
+/ModDate (D:20110330210620+11'00')
+/Producer (Apple pstopdf)
+>>
+endobj
+19 0 obj
+<<
+/Type /Catalog
+/Pages 10 0 R
+/PageLabels 17 0 R
+>>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000008742 00000 n 
+0000000016 00000 n 
+0000005714 00000 n 
+0000006992 00000 n 
+0000007194 00000 n 
+0000007364 00000 n 
+0000007801 00000 n 
+0000008244 00000 n 
+0000005854 00000 n 
+0000008891 00000 n 
+0000005994 00000 n 
+0000006196 00000 n 
+0000006402 00000 n 
+0000006599 00000 n 
+0000006790 00000 n 
+0000008823 00000 n 
+0000008851 00000 n 
+0000008984 00000 n 
+0000009107 00000 n 
+trailer
+<<
+/Size 20
+/Root 19 0 R
+/Info 18 0 R
+/ID [<c34a67778de1cc656e3d8f748e96e4ea><c34a67778de1cc656e3d8f748e96e4ea>]
+>>
+startxref
+9177
+%%EOF

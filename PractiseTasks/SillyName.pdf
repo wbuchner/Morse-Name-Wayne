@@ -1,0 +1,496 @@
+%PDF-1.3
+%âãÏÓ
+2 0 obj
+<<
+/Length 2724
+>>
+stream
+0 G
+0 J 0 j 0.1 w 10 M []0 d
+/GS1 gs
+1 i 
+571 421 m
+60 421 l
+S
+0.95 g
+42 818 18 -794 re
+f
+0.7 g
+24 96 36 -72 re
+f
+BT
+/TT2 1 Tf
+0 12 -12 0 40 38.666 Tm
+0 g
+0 Tc
+0 Tw
+(03/28/11)Tj
+-0.0552 -1.0667 TD
+(21:00:55)Tj
+ET
+0.7 g
+24 818 36 -72 re
+f
+BT
+/TT4 1 Tf
+0 28.8 -28.8 0 52.8 773.9915 Tm
+1 g
+(1)Tj
+/TT6 1 Tf
+0 14 -14 0 55.5 379.9775 Tm
+0 g
+(SillyName.pas)Tj
+-0.2217 1.2857 TD
+(Waynes’s Code)Tj
+/TT8 1 Tf
+0 7 -7 0 70 46.8 Tm
+(1:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(program)Tj
+/TT8 1 Tf
+0 g
+4.2 0 TD
+( SillyName;)Tj
+-6 -1.1429 TD
+(2:)Tj
+T*
+(3:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(uses)Tj
+/TT8 1 Tf
+0 g
+2.4 0 TD
+( SysUtils;)Tj
+-4.2 -1.1429 TD
+(4:)Tj
+T*
+(5:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(procedure)Tj
+/TT8 1 Tf
+0 g
+5.4 0 TD
+( Main\(\);)Tj
+-7.2 -1.1429 TD
+(6:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(var)Tj
+/TT8 1 Tf
+0 g
+-1.8 -1.1429 TD
+[(7:)-599.8(    name : )]TJ
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+8.4 0 TD
+(String)Tj
+/TT8 1 Tf
+0 g
+3.6 0 TD
+(;)Tj
+-12 -1.1429 TD
+(8:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+1.8 0 TD
+(begin)Tj
+/TT8 1 Tf
+0 g
+-1.8 -1.1429 TD
+[(9:)-599.8(    Write\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+7.8 0 TD
+(’Enter Your Name’)Tj
+/TT8 1 Tf
+0 g
+10.2 0 TD
+(\);)Tj
+-18.6 -1.1429 TD
+[(10:)-599.7(    ReadLn\(name\);)]TJ
+T*
+[(11:)-599.7(    )]TJ
+T*
+[(12:)-599.7(    )]TJ
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(if)Tj
+/TT8 1 Tf
+0 g
+1.2 0 TD
+( name = )Tj
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+4.8 0 TD
+(’wayne’)Tj
+/TT8 1 Tf
+0 g
+4.2 0 TD
+( )Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+0.6 0 TD
+(then)Tj
+/TT8 1 Tf
+0 g
+-15.6 -1.1429 TD
+[(13:)-599.7(        )]TJ
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(begin)Tj
+/TT8 1 Tf
+0 g
+-7.2 -1.1429 TD
+[(14:)-599.7(            WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+14.4 0 TD
+(’Thats a silly Name’)Tj
+/TT8 1 Tf
+0 g
+12 0 TD
+(\)   )Tj
+-26.4 -1.1429 TD
+[(15:)-599.7(        )]TJ
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(end)Tj
+/TT8 1 Tf
+0 g
+1.8 0 TD
+( )Tj
+-9 -1.1429 TD
+[(16:)-599.7(    )]TJ
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+4.8 0 TD
+(else)Tj
+/TT8 1 Tf
+0 g
+-4.8 -1.1429 TD
+[(17:)-599.7(        )]TJ
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(begin)Tj
+/TT8 1 Tf
+0 g
+-7.2 -1.1429 TD
+[(18:)-599.7(            WriteLn\()]TJ
+/TT10 1 Tf
+0.737 0.561 0.561 rg
+14.4 0 TD
+(’Thats a great name’)Tj
+/TT8 1 Tf
+0 g
+12 0 TD
+(\))Tj
+-26.4 -1.1429 TD
+[(19:)-599.7(        )]TJ
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+7.2 0 TD
+(end)Tj
+/TT8 1 Tf
+0 g
+1.8 0 TD
+(;)Tj
+-9 -1.1429 TD
+(20:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(end)Tj
+/TT8 1 Tf
+0 g
+1.8 0 TD
+(;)Tj
+-4.2 -1.1429 TD
+(21:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(begin)Tj
+/TT8 1 Tf
+0 g
+-2.4 -1.1429 TD
+[(22:)-599.7(    Main\(\);)]TJ
+T*
+(23:)Tj
+/TT10 1 Tf
+0.627 0.125 0.941 rg
+2.4 0 TD
+(end)Tj
+/TT8 1 Tf
+0 g
+1.8 0 TD
+(.)Tj
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT8 7 0 R
+/TT10 8 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+9 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/OP false
+/op false
+/OPM 1
+/BG2 /Default
+/UCR2 /Default
+/HT /Default
+/TR2 /Default
+>>
+endobj
+11 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 750
+/CapHeight 676
+/Descent -250
+/Flags 262178
+/FontBBox [-168 -218 1000 935]
+/FontName /Times-Bold
+/ItalicAngle 0
+/StemV 133
+/XHeight 461
+/StemH 139
+>>
+endobj
+12 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 770
+/CapHeight 718
+/Descent -229
+/Flags 262176
+/FontBBox [-170 -228 1003 962]
+/FontName /Helvetica-Bold
+/ItalicAngle 0
+/StemV 133
+/XHeight 532
+/StemH 140
+>>
+endobj
+13 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 750
+/CapHeight 662
+/Descent -250
+/Flags 34
+/FontBBox [-168 -218 1000 898]
+/FontName /Times-Roman
+/ItalicAngle 0
+/StemV 84
+/XHeight 450
+/StemH 84
+>>
+endobj
+14 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 753
+/CapHeight 562
+/Descent -246
+/Flags 35
+/FontBBox [-28 -250 628 805]
+/FontName /Courier
+/ItalicAngle 0
+/StemV 51
+/XHeight 426
+/StemH 51
+>>
+endobj
+15 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 753
+/CapHeight 562
+/Descent -246
+/Flags 262179
+/FontBBox [-113 -250 749 801]
+/FontName /Courier-Bold
+/ItalicAngle 0
+/StemV 133
+/XHeight 439
+/StemH 84
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 47
+/LastChar 58
+/Widths [278 500 500 500 500 0 500 0 0 500 0 333 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Times-Bold
+/FontDescriptor 11 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 49
+/LastChar 49
+/Widths [556 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Helvetica-Bold
+/FontDescriptor 12 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 146
+/Widths [250 0 0 0 0 0 0 0 0 0 0 0 0 0 250 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 667 0 0 0 0 0 0 0 0 0 0 722 0 
+0 0 0 556 0 0 0 944 0 0 0 0 0 0 0 0 
+0 444 0 0 500 444 0 0 0 278 0 0 278 778 500 500 
+500 0 0 389 0 0 0 0 0 500 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 333 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Times-Roman
+/FontDescriptor 13 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 121
+/Widths [600 0 0 0 0 0 0 0 600 600 0 0 0 0 600 0 
+600 600 600 600 600 600 600 600 600 600 600 600 0 600 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 600 600 600 0 
+0 0 600 600 0 600 0 600 0 0 0 0 0 0 0 0 
+0 600 0 0 600 600 0 0 0 600 0 0 600 600 600 0 
+0 0 600 600 600 0 0 0 0 600 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier
+/FontDescriptor 14 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 146
+/Widths [600 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 600 0 0 0 0 0 0 0 0 600 0 
+0 0 0 600 600 0 0 0 0 600 0 0 0 0 0 0 
+0 600 600 600 600 600 600 600 600 600 0 0 600 600 600 600 
+600 0 600 600 600 600 600 600 0 600 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 600 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier-Bold
+/FontDescriptor 15 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/S /D
+>>
+endobj
+17 0 obj
+<<
+/Nums [0 16 0 R ]
+>>
+endobj
+10 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R]
+/Count 1
+/Rotate 90
+/MediaBox [0 0 595 842]
+>>
+endobj
+18 0 obj
+<<
+/CreationDate (D:20110328210118+11'00')
+/ModDate (D:20110328210118+11'00')
+/Producer (Apple pstopdf)
+>>
+endobj
+19 0 obj
+<<
+/Type /Catalog
+/Pages 10 0 R
+/PageLabels 17 0 R
+>>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000005752 00000 n 
+0000000016 00000 n 
+0000002792 00000 n 
+0000004070 00000 n 
+0000004272 00000 n 
+0000004442 00000 n 
+0000004879 00000 n 
+0000005294 00000 n 
+0000002932 00000 n 
+0000005901 00000 n 
+0000003072 00000 n 
+0000003274 00000 n 
+0000003480 00000 n 
+0000003677 00000 n 
+0000003868 00000 n 
+0000005833 00000 n 
+0000005861 00000 n 
+0000005994 00000 n 
+0000006117 00000 n 
+trailer
+<<
+/Size 20
+/Root 19 0 R
+/Info 18 0 R
+/ID [<9a03b1428cf366f69ad51ebe8c2bdfb4><9a03b1428cf366f69ad51ebe8c2bdfb4>]
+>>
+startxref
+6187
+%%EOF

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>TestSwap.pas</string>
+	<string>GuessNumber.pas</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -17,6 +17,8 @@
 		<dict>
 			<key>filename</key>
 			<string>CircleStats.pas</string>
+			<key>lastUsed</key>
+			<date>2011-03-28T22:52:02Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -26,13 +28,13 @@
 			<key>filename</key>
 			<string>variables.pas</string>
 			<key>lastUsed</key>
-			<date>2011-03-24T08:15:58Z</date>
+			<date>2011-03-28T01:25:11Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>CtoF.pas</string>
 			<key>lastUsed</key>
-			<date>2011-03-24T08:16:19Z</date>
+			<date>2011-03-28T01:25:07Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -94,9 +96,39 @@
 		</dict>
 		<dict>
 			<key>filename</key>
+			<string>Sketch.pas</string>
+			<key>lastUsed</key>
+			<date>2011-03-28T07:21:39Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>HelloWorldPost.pas</string>
+			<key>lastUsed</key>
+			<date>2011-03-28T22:58:54Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>NameTest.pas</string>
+			<key>lastUsed</key>
+			<date>2011-03-28T22:58:58Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>SillyName.pas</string>
+			<key>lastUsed</key>
+			<date>2011-03-28T22:52:00Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>Repeat.pas</string>
+			<key>lastUsed</key>
+			<date>2011-03-28T22:52:01Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
 			<string>TestReadString.pas</string>
 			<key>lastUsed</key>
-			<date>2011-03-20T08:27:50Z</date>
+			<date>2011-03-28T22:52:04Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -110,9 +142,7 @@
 			<key>filename</key>
 			<string>TestSwap.pas</string>
 			<key>lastUsed</key>
-			<date>2011-03-24T09:50:30Z</date>
-			<key>selected</key>
-			<true/>
+			<date>2011-03-25T22:24:29Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -134,7 +164,7 @@
 			<key>filename</key>
 			<string>TestValue.pas</string>
 			<key>lastUsed</key>
-			<date>2011-03-24T08:37:27Z</date>
+			<date>2011-03-28T09:51:53Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -142,24 +172,74 @@
 			<key>lastUsed</key>
 			<date>2011-03-24T09:50:30Z</date>
 		</dict>
+		<dict>
+			<key>filename</key>
+			<string>example.pas</string>
+			<key>lastUsed</key>
+			<date>2011-03-28T22:52:02Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>GuessNumber.pas</string>
+			<key>lastUsed</key>
+			<date>2011-03-28T23:15:43Z</date>
+			<key>selected</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>Clean.pas</string>
+			<key>lastUsed</key>
+			<date>2011-03-28T23:15:43Z</date>
+		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
-		<key>CtoF.pas</key>
+		<key>CircleStats.pas</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>5</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>20</integer>
+				<integer>2</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>19</integer>
+				<key>line</key>
+				<integer>2</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>2</integer>
+			</dict>
+		</dict>
+		<key>Clean.pas</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>31</integer>
+				<key>line</key>
+				<integer>65</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>30</integer>
 		</dict>
 		<key>Game Concept.tex</key>
 		<dict>
@@ -175,6 +255,154 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>GuessNumber.pas</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>12</integer>
+				<key>line</key>
+				<integer>4</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>17</integer>
+		</dict>
+		<key>HelloWorldPost.pas</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>2</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>NameTest.pas</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>32</integer>
+				<key>line</key>
+				<integer>17</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>2</integer>
+				<key>line</key>
+				<integer>17</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>32</integer>
+				<key>line</key>
+				<integer>17</integer>
+			</dict>
+		</dict>
+		<key>Repeat.pas</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>38</integer>
+				<key>line</key>
+				<integer>12</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>2</integer>
+				<key>line</key>
+				<integer>12</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>38</integer>
+				<key>line</key>
+				<integer>12</integer>
+			</dict>
+		</dict>
+		<key>SillyName.pas</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>4</integer>
+				<key>line</key>
+				<integer>19</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>7</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>4</integer>
+				<key>line</key>
+				<integer>19</integer>
+			</dict>
+		</dict>
+		<key>Sketch.pas</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>5</integer>
+				<key>line</key>
+				<integer>49</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>1</integer>
+				<key>line</key>
+				<integer>47</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>5</integer>
+				<key>line</key>
+				<integer>49</integer>
+			</dict>
+		</dict>
 		<key>SwallowAirSpeedVelocity.pas</key>
 		<dict>
 			<key>caret</key>
@@ -183,6 +411,20 @@
 				<integer>11</integer>
 				<key>line</key>
 				<integer>25</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>TestReadString.pas</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>5</integer>
+				<key>line</key>
+				<integer>8</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -231,19 +473,54 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>example.pas</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>6</integer>
+				<key>line</key>
+				<integer>25</integer>
+			</dict>
+			<key>columnSelection</key>
+			<false/>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>1</integer>
+				<key>line</key>
+				<integer>21</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>6</integer>
+				<key>line</key>
+				<integer>25</integer>
+			</dict>
+		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>Game Concept.tex</string>
-		<string>SwallowAirSpeedVelocity.pas</string>
-		<string>CtoF.pas</string>
-		<string>Variables.pas</string>
-		<string>TestSwap.pas</string>
 		<string>TestValue.pas</string>
+		<string>TestReadString.pas</string>
+		<string>CircleStats.pas</string>
+		<string>example.pas</string>
+		<string>Repeat.pas</string>
+		<string>SillyName.pas</string>
+		<string>NameTest.pas</string>
+		<string>HelloWorldPost.pas</string>
+		<string>Sketch.pas</string>
+		<string>Clean.pas</string>
+		<string>GuessNumber.pas</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{1111, 52}, {1119, 1366}}</string>
+	<string>{{891, 150}, {1428, 1266}}</string>
 </dict>
 </plist>
